@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Shapes>
+    <Square Sides="15" />
+    <Triangle Sides="5 5 3" />
+    <EquilateralTriangle Sides="16 16 16" />
+    <RightTriangle Sides="9 18 20" />
+</Shapes>

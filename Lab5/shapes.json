@@ -1,0 +1,18 @@
+[
+  {
+    "Type": "Square",
+    "Sides": 2
+  },
+  {
+    "Type": "Triangle",
+    "Sides": "19 9 16"
+  },
+  {
+    "Type": "EquilateralTriangle",
+    "Sides": "1 1 1"
+  },
+  {
+    "Type": "RightTriangle",
+    "Sides": "17 4 17"
+  }
+]
